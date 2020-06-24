@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\ProjectStudentPreq\ProjectStudentPreq\MyForm.h(35,1): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(243): message : see declaration of 'freopen'
+C:\Users\user\source\repos\ProjectStudentPreq\ProjectStudentPreq\MyForm.h(388,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\ProjectStudentPreq\ProjectStudentPreq\MyForm.h(392,20): warning C4018: '<': signed/unsigned mismatch
+  logic.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjectStudentPreq.vcxproj -> C:\Users\user\source\repos\ProjectStudentPreq\Debug\ProjectStudentPreq.exe

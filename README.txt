@@ -1,4 +1,5 @@
 # Project-Student-Preq-winform-c++
+Shows what course should be taken when someone prerequisite has been taken
 
 a file has each subject and its prequestie 
 the gui lets you choose what you want to take and decide if you can take it or not
